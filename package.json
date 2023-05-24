@@ -11,6 +11,7 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
+    "@types/lodash": "^4.14.194",
     "ts-loader": "^9.4.3",
     "typescript": "^5.0.4",
     "webpack": "^5.38.1",
